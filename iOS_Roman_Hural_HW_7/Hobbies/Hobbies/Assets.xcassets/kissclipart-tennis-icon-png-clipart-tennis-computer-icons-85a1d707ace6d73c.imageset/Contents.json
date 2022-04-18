@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "kissclipart-tennis-icon-png-clipart-tennis-computer-icons-85a1d707ace6d73c.jpeg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
